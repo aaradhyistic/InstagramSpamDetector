@@ -13,7 +13,8 @@ spam_keywords = [
     "collab",
     "link",
     "follow",
-    "dm now"
+    "dm",
+    "now"
 ]
 
 if st.button("Detect Spam"):
