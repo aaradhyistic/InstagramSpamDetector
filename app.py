@@ -10,7 +10,6 @@ spam_keywords = [
     "free",
     "click",
     "bio",
-    "chutiya",
     "collab",
     "link",
     "follow",
