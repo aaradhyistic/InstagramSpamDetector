@@ -91,7 +91,7 @@ streamlit run app.py
 ### Spam Comment
 
 ```text
-Earn money online fast click this link
+Earn money online fast check bio
 ```
 
 ### Legitimate Comment
